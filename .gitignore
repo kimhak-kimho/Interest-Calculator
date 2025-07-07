@@ -1,0 +1,14 @@
+# Flutter/Dart defaults
+build/
+.dart_tool/
+.packages
+.pub-cache/
+.flutter-plugins
+.flutter-plugins-dependencies
+
+# Android Studio & VSCode
+.idea/
+.vscode/
+
+# Android build cache
+android/app/build/
